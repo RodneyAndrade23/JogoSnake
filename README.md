@@ -1,2 +1,2 @@
-## JogoSnake
-# Jogo da Cobrinha em Python 🤙🏾
+# JogoSnake
+## Jogo da Cobrinha em Python 🤙🏾
